@@ -1,5 +1,5 @@
 <!-- Banner (coloque uma imagem em assets/banner.png ou use um link) -->
-<!-- <img src="assets/banner.png" alt="Banner - Robson Silva" width="100%" /> -->
+<img src="https://i.pinimg.com/originals/bc/64/ec/bc64eca2ac244d7886d5da39ebcf13a7.gif" alt="Banner - Robson Silva" width="100%" />
 
 <h1 align="center">Olá! Eu sou o Robson 👋</h1>
 <p align="center">
