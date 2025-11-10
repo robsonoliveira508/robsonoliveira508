@@ -3,19 +3,19 @@
 
 <h1 align="center">Olá! Eu sou o Robson 👋</h1>
 <p align="center">
-  Desenvolvedor mobile focado em <b>Flutter</b>, <b>Dart</b> e <b>Firebase</b>. <br/>
+  Desenvolvedor front-end atualmente focado em <b>Flutter</b>, <b>Javascript</b>, <b>React</b>, <b>Vue.JS</b>, <b>Dart</b> e <b>Firebase</b>. <br/>
   Apaixonado por criar apps limpos, rápidos e bonitos. 🚀
 </p>
 
 <p align="center">
   <!-- Badges rápidos -->
-  <a href="https://github.com/SEU_USUARIO">
+  <a href="https://github.com/robsonoliveira508">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN/">
+  <a href="www.linkedin.com/in/robson-silva-profile">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:seuemail@dominio.com">
+  <a href="mailto:robsonoliveira508@gmal.com">
     <img src="https://img.shields.io/badge/Email-%23EA4335?logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -51,8 +51,8 @@
 
 ## 📈 Stats (automáticos)
 <p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_title=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=robsonoliveira508&show_icons=true&theme=tokyonight&hide_title=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robsonoliveira508&layout=compact&theme=tokyonight" />
 </p>
 
 ---
