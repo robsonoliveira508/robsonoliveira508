@@ -59,7 +59,7 @@
 
 ## 📬 Contato
 - ✉️ Email: **robsonoliveira508@gmail.com**  
-- 💼 LinkedIn: **/in/SEU_LINKEDIN**  
+- 💼 LinkedIn: **www.linkedin.com/in/robson-silva-profile**  
 - 💙 Sempre aberto para trocar ideia e colaborar em projetos!
 
 ---
