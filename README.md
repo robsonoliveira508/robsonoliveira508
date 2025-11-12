@@ -62,7 +62,7 @@
 
 ---
 
-## 📈 Stats (automáticos)
+## 📈 Stats 
 <p align="left">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=robsonoliveira508&show_icons=true&theme=tokyonight&hide_title=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robsonoliveira508&layout=compact&theme=tokyonight" />
